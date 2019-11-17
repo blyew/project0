@@ -1,0 +1,16 @@
+body{
+	font-family: "Helvetica", "Times New Roman";
+	
+}
+
+.td_img {
+	width: 150px;
+	max-height: 200px;
+
+}
+
+.pictures{
+	display: flex;
+	flex-wrap: wrap;
+}
+
